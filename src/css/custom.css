@@ -1,0 +1,186 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* Study Mongolian Color Scheme */
+:root {
+  --ifm-color-primary: #0066CC;
+  --ifm-color-primary-dark: #10659C;
+  --ifm-color-primary-darker: #005bb3;
+  --ifm-color-primary-darkest: #004d99;
+  --ifm-color-primary-light: #1a70d6;
+  --ifm-color-primary-lighter: #337ae0;
+  --ifm-color-primary-lightest: #4d8bea;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  
+  /* Study Mongolian specific colors */
+  --sm-blue: #2d8fc9;
+  --sm-text-color: #333333;
+  --sm-text-light: #999999;
+  --sm-background: #ffffff;
+  --sm-border: #eaeaea;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #4d8bea;
+  --ifm-color-primary-dark: #337ae0;
+  --ifm-color-primary-darker: #1a70d6;
+  --ifm-color-primary-darkest: #005bb3;
+  --ifm-color-primary-light: #66a3f4;
+  --ifm-color-primary-lighter: #80b3f7;
+  --ifm-color-primary-lightest: #99c2fa;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Custom navbar styling to match original */
+.navbar {
+  background-color: var(--sm-blue);
+  border-bottom: none;
+}
+
+.navbar__brand {
+  color: white;
+}
+
+.navbar__title {
+  color: white;
+  font-weight: 600;
+}
+
+.navbar__item.navbar__link {
+  color: white;
+  font-weight: 600;
+}
+
+.navbar__item.navbar__link:hover {
+  color: #e0e0e0;
+}
+
+/* Hero Section Styling */
+.hero-section {
+  padding: 4rem 0;
+  background-color: white;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: var(--sm-text-color);
+  margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  color: var(--sm-text-color);
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+.hero-description {
+  font-size: 1rem;
+  color: var(--sm-text-color);
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.hero-cta {
+  margin-bottom: 2rem;
+}
+
+.hero-image {
+  text-align: center;
+}
+
+.hero-logo {
+  max-width: 200px;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Widgets Section */
+.widgets-section {
+  padding: 3rem 0;
+  background-color: #f8f9fa;
+}
+
+.widget-wrapper {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 1.5rem;
+  height: 100%;
+}
+
+.widget-title {
+  color: var(--sm-text-color);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid var(--ifm-color-primary);
+  padding-bottom: 0.5rem;
+}
+
+.widget-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.widget-content li {
+  margin-bottom: 0.5rem;
+}
+
+.widget-content a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.widget-content a:hover {
+  color: var(--ifm-color-primary-dark);
+  text-decoration: underline;
+}
+
+/* Button styling */
+.button--primary {
+  background-color: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+  color: white;
+  font-weight: 600;
+}
+
+.button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+  border-color: var(--ifm-color-primary-dark);
+  color: white;
+}
+
+/* Footer customization */
+.footer {
+  background-color: var(--sm-blue);
+  color: white;
+}
+
+.footer__copyright {
+  color: #e0e0e0;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 996px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.1rem;
+  }
+  
+  .hero-logo {
+    max-width: 150px;
+    margin-top: 2rem;
+  }
+}
