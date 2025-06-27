@@ -71,80 +71,20 @@ const config: Config = {
           position: 'left',
           items: [
             {
-              to: '/lessons/basics',
-              label: 'Basics',
+              to: '/lessons/basics/survival-phrases',
+              label: 'Survival Phrases',
             },
             {
-              to: '/lessons/lesson-1',
-              label: 'Lesson 1',
+              to: '/lessons/basics/pronunciation',
+              label: 'Pronunciation',
             },
             {
-              to: '/lessons/lesson-2',
-              label: 'Lesson 2',
+              to: '/lessons/basics/writing',
+              label: 'Writing',
             },
             {
-              to: '/lessons/lesson-3',
-              label: 'Lesson 3',
-            },
-            {
-              to: '/lessons/lesson-4',
-              label: 'Lesson 4',
-            },
-            {
-              to: '/lessons/lesson-5',
-              label: 'Lesson 5',
-            },
-            {
-              to: '/lessons/lesson-6',
-              label: 'Lesson 6',
-            },
-            {
-              to: '/lessons/lesson-7',
-              label: 'Lesson 7',
-            },
-            {
-              to: '/lessons/lesson-8',
-              label: 'Lesson 8',
-            },
-            {
-              to: '/lessons/lesson-9',
-              label: 'Lesson 9',
-            },
-            {
-              to: '/lessons/lesson-10',
-              label: 'Lesson 10',
-            },
-            {
-              to: '/lessons/lesson-11',
-              label: 'Lesson 11',
-            },
-            {
-              to: '/lessons/lesson-12',
-              label: 'Lesson 12',
-            },
-            {
-              to: '/lessons/lesson-13',
-              label: 'Lesson 13',
-            },
-            {
-              to: '/lessons/lesson-14',
-              label: 'Lesson 14',
-            },
-            {
-              to: '/lessons/lesson-15',
-              label: 'Lesson 15',
-            },
-            {
-              to: '/lessons/lesson-16',
-              label: 'Lesson 16',
-            },
-            {
-              to: '/lessons/lesson-17',
-              label: 'Lesson 17',
-            },
-            {
-              to: '/lessons/supplemental-lessons',
-              label: 'Supplemental Lessons',
+              to: '/lessons',
+              label: 'Lessons',
             },
           ],
         },

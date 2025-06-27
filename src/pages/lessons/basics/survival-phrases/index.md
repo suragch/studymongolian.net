@@ -2,6 +2,8 @@
 title: Survival phrases
 ---
 
+# Survival phrases
+
 If you are travelling to Inner Mongolia and you want to be able to say a few things but don't have the time to do the whole course, then this is the place for you. These are all of the most useful words and phrases.
 
 Also check out the [Survival Phrases Anki flashcard deck](/static/media/Mongolian-Survival-Phrases.apkg) if you would like to continue learning offline. It is convenient to use on your smart phone when you have a few spare minutes. See [this page](/resources/anki-flashcards/) for more information about using Anki.
