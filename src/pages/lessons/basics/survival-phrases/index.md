@@ -9,7 +9,6 @@ If you are travelling to Inner Mongolia and you want to be able to say a few thi
 Also check out the [Survival Phrases Anki flashcard deck](/static/media/Mongolian-Survival-Phrases.apkg) if you would like to continue learning offline. It is convenient to use on your smart phone when you have a few spare minutes. See [this page](/resources/anki-flashcards/) for more information about using Anki.
 
 #### Most Basic of the Basic
-If you only have enough time or interest to learn a few simple phrases then learn these first. You will get a lot of use out of them.
 
 | English Phrase        | Audio                                                              | Phonetic Transcription             |
 | :-------------------- | :----------------------------------------------------------------- | :--------------------------------- |
@@ -109,3 +108,95 @@ If you only have enough time or interest to learn a few simple phrases then lear
 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10           | <AudioPlayer src="/audio/suvival-phrases-one-to-ten.mp3" /> | nəg, xɔjə̌r, gʊrə̌b, dorə̌b, tɑb, jʊrgɑː, dɔlɔː, næːm, jus, ɑrə̌b |
 | 20, 30, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400, 500 | <AudioPlayer src="/audio/suvival-phrases-20-500.mp3" /> | xœr, gʊʧ, doʧ, tæb, ʤir, dɑl, nɑj, jir, ʤʊː, xɔjə̌r ʤʊː, gʊrbə̌n ʤʊː, dorbə̌n ʤʊː, tɑbə̌n ʤʊː |
 | 11, 21, 31, 41, 51, 61, 71, 81, 91, 101 | <AudioPlayer src="/audio/suvival-phrases-11-101.mp3" /> | ɑrbə̌n nəg, xœrə̌n nəg, gʊʧə̌n nəg, doʧə̌n nəg, tæbə̌n nəg, ʤirə̌n nəg, dɑlə̌n nəg, nɑjə̌n nəg, jirə̌n nəg, ʤʊː bogə̌d nəg |
+
+## Comments
+
+**J** - January 16, 2014 at 2:11 am
+
+I liking the phrases a lot. Some of the content is difficult to say. Oh I have two request- could you also put it in Cyrillic and could you add phrases for dating?
+
+> **Suragch** - January 16, 2014 at 2:39 am
+> 
+> Thanks for your comment. I agree that some of the content is hard to say. With practice it becomes easier, though. 
+> 
+> This website is focused on the Mongolian that is used in Inner Mongolia, China, where the traditional Mongolian script is used. Cyrillic is used in the country of Mongolia. Neither I nor my Mongolian teachers have the knowledge to add Cyrillic to the lessons. Check out the [links](http://www.studymongolian.net/links/) page, though, for some good sites that teach Mongolian with Cyrillic.
+> 
+> What kinds of dating phrases were you thinking of? (It is the Mongolian/Chinese New Year holiday now, though, so I won’t see my teachers for a while.)
+
+---
+
+**Peter TC** - February 12, 2014 at 12:42 pm
+
+Could you tell me:
+1)how to address a waiter or waitress to bring me the bill after I have eaten at the restaurant?
+1) how to tell the taxi driver to take me to Ganden Monastery? to the airport?
+
+> **Suragch** - February 12, 2014 at 2:31 pm
+> 
+> 1) In Inner Mongolia in small Mongolian restaurants you usually just go to the counter and ask “xədiː jɔːs be?” (see above). You could call the waiter or waitress (uilʧə̌lə̌gʧəː) and ask the same question.
+> 2) My teachers aren’t here now so for now I’ll just give you my non-expert answer and try to update this at some later date. If it were me I would say “____ ɔʧnɔː” (go to ____) and then put the location in the blank. Sorry, this answer is not very good. I like your idea of having taxi survival phrases, though, so I’ll add that some time.
+
+> **Suragch** - August 14, 2023 at 5:27 pm
+> 
+> Informal way in Mongolia we could ask for the bill: 
+> 
+> Hed bolson be? -xedu bolugsen bui?
+
+---
+
+**Veradej** - September 24, 2014 at 2:20 pm
+
+The language spoken here is quite the same as one in Mongolia itself, although written language is in different script. Oh by the way, the ‘b’ in Mongolian language is quite allophonic in nature. Is letter ‘b’ originated from one letter in Traditional Mongolian script? I see that many times ‘be’ are pronounced as ‘ve’ except when it follows ‘n’ or ‘m’ such as ‘hen be’, otherwise ‘ju be’ sounds like ‘ju ve’. In Cyrillic script, this is explicitly write out as “вэ/бэ” to show sound difference although they mean the same thing.
+
+> **Suragch** - September 24, 2014 at 11:18 pm
+> 
+> Thank you for pointing that out. I just use /b/ in the phonetic transcriptions for simplicity’s sake.
+
+---
+
+**Veradej** - September 24, 2014 at 9:48 pm
+
+What would you like to eat? tɑː juː idxiː
+
+It is an interrogative question. Shouldn’t there be question particle ‘be’?
+tɑː juː idxiː be
+
+> **Suragch** - September 24, 2014 at 11:15 pm
+> 
+> As I understand it, the final /iː/ of /idxiː/ is actually a spoken form of “be”.
+
+---
+
+**rich** - January 11, 2018 at 5:31 pm
+
+in outer mongolia (mongolia proper), I never heard sæːn ʊː? as a greeting… I heard bæːn ʊː? as a common greeting.
+
+> **Suragch** - January 12, 2018 at 2:30 am
+> 
+> sæːn ʊː is used synonymously with sæːn bæːn ʊː in Inner Mongolian and both are equally common.
+
+---
+
+**Pavlo** - May 10, 2018 at 2:38 am
+
+Hi. Do you have some kind of higher form of “thank you” as “Appreciate that” or Thank you very much?
+
+> **Suragch** - May 19, 2018 at 5:52 am
+> 
+> You can add words like “very” or “much” to “thank you.” For example, someone recently told me, “ᠮᠠᠰᠢ ᠶᠡᠬᠡ ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ” (mɑʃ jix bɑjɑrlɑː).
+
+---
+
+**Nolan** - August 3, 2018 at 4:42 pm
+
+No Download for this page???? Please, if you can enable downloads of these audio files, that would be very useful.
+
+> **Suragch** - August 19, 2018 at 4:05 am
+> 
+> That’s a good idea. I should add a link to the page. For now, though, you can download the Anki flashcard deck. I’m pretty sure it includes the audio.
+> 
+> [http://www.studymongolian.net/resources/anki-flashcards/](http://www.studymongolian.net/resources/anki-flashcards/)
+
+---
+
+*Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*

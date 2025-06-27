@@ -89,8 +89,6 @@ This overview of Mongolian culture is an adaptation of the [tour](http://v.youku
 
 ## Comments
 
-### 9 Comments on "Mongolian Culture"
-
 **Suragch** - November 4, 2013 at 11:20 pm
 
 Why do Mongolians pile flags on rocks?
@@ -113,37 +111,4 @@ What time period are the cutlery set with chopsticks from, do you know?
 
 ---
 
-**Jane Kettner** - December 23, 2015 at 9:24 am
-
-what is a Mongolian urga flag for?
-
----
-
-**Oğuzhan Moroğlu** - December 12, 2017 at 9:16 am
-
-Hi. My native language is Turkish. How is mongolian language similar to turkish?
-
-> **Suragch** - January 12, 2018 at 2:00 am
->
-> I don't know Turkish so I can't answer your question, but if you notice some similarities in vocabulary or grammar, I would be interested in hearing your comments.
-
-> **Muhlisa** - December 30, 2022 at 5:56 am
->
-> Why did Mongols carry rope with them in history
-
----
-
-**Jean-Pierre Roux** - May 7, 2018 at 12:55 pm
-
-Turkic languages, Tungusic languages, and Mongolic languages belong to the big 'Altaic' family of languages.
-Juste like Hindi, Persian, Russian, Greek, Gaelic languages, germanic languages (german, dutch, danish etc), latin languages (french, italian, spanish, etc) belong to the big 'indo-european' family.
-As a french guy, I can expect to be able to read an italian news paper, and guess what they're talking about (even if I don't get exactly what they think about), but I'll never get a single word in a dutch newspaper.
-As a Turhisk guy, you can expect to understand more or less a text written in Azerbaijani, Turkmen, Qashqai, Gagauz, Ouighur, Kazakh, Kirghiz, Tatar, etc but you have to leave any hope to understand a single word of one of the Mongolic languages (except for very recently borrowed words).
-HTH.
-Jean-Pierre Roux
-
----
-
-**Victor** - August 20, 2020 at 4:54 pm
-
-Good to see some quality contents about Inner Mongolia!
+*Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
