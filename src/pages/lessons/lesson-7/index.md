@@ -282,6 +282,8 @@ If you were able to say most of these things correctly then you are ready to go 
 
 *Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
+---
+
 **Roddy** on June 16, 2014 at 2:58 pm
 
 Mongolian has a very unique vocabulary like the word for Korea is Solongos (Солонгос, according to wiktionary). In Mongolian, rainbow is solongo (солонго, according to wiktionary). Please, I want to know how this is spelled in Traditional Mongolian, too. 😀

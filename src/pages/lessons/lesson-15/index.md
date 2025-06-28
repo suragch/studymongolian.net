@@ -8,7 +8,7 @@ title: Lesson 15
 
 ![L15-K.png](./images/L15-K.png)
 
-| | | |
+| Mongolian | English | Audio |
 | :--- | :--- | :--- |
 | ən bɔl ʃin gɑrsə̌n ʃʊːdə̌n bələt | This is a new stamp that just came out. | <AudioPlayer src="/audio/L15-K1.mp3" /> |
 | oːr sæːxə̌n e bæːn ʊː | Do you have any other nice ones? | <AudioPlayer src="/audio/L15-K2.mp3" /> |

@@ -198,6 +198,8 @@ If you were able to say most of these things correctly then you are ready to go 
 
 *Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
+---
+
 **Uuree** on November 22, 2013 at 2:28 am
 
 Sain uu,
@@ -207,10 +209,14 @@ What a lot of work! Ene site chin ih taalagdlaa. Bi ch bas huuchin mongol bichig
 >
 > Bayarlalaa. I wish I could reply to you properly in Mongolian but my Mongolian is still pretty bad. If you find any mistakes then please let me know.
 
+---
+
 **Jenny Ulziisaikhan** on November 18, 2014 at 4:54 pm
 
 kewl, its so amazing . When i was high school i learned Mongolian script. i will suggest this site to my friends who wanna learn Mongolian script.
 Маргааш би Монгол бичиг хэл соёлын талаар гадаад хүүхдүүдэд хичээл заах юм. Мартсанаа эргэж санахад их тус боллоо. Баярлалаа
+
+---
 
 **Hai** on October 4, 2015 at 12:46 pm
 
@@ -226,6 +232,8 @@ Either way thank you again for your effort on promoting Mongolian learning.
 > **Hai** on October 4, 2015 at 3:21 pm
 >
 > Weird enough the pronunciations depicted in those symbol looks like Khorchin-influenced Chakhar one.
+
+---
 
 **Ariel Galazzi** on December 5, 2017 at 9:50 pm
 
@@ -246,9 +254,13 @@ I’m really grateful with the website, and I’d like to receive an answer! tha
 >
 > The verb root “ir-” means “to come” and the “n” (or “nəː”) suffix indicates that it is the future tense. The “uː” particle makes it a question.
 
+---
+
 **Jeremy** on January 22, 2020 at 2:25 pm
 
 I agree with the first comment above, ‘what a lot of work!’ Thanks so much my friend. This is helping me so much. I can’t wait to impress my Mongolian script teacher in Ulaanbaatar next lesson! This will make homework much more enjoyable and fruitful.
+
+---
 
 **Hana** on July 8, 2024 at 11:52 am
 
@@ -264,3 +276,5 @@ I like this webpage a lot, thanks. Please, would it be possible to write (take a
 >
 > Dear Suragch,
 > thank you a lot for your answer. Yes, it would be great if you could update, because it would be very useful. I have just bought a completely new book about classical Mongolian writing , but anyway I would greatly appreciate if you update. Thank you again. Nice day.
+
+---

@@ -8,7 +8,7 @@ title: Lesson 6
 
 ![L6-K](./images/L6-K.gif)
 
-| | | |
+| Mongolian | English | Audio |
 | :--- | :--- | :--- |
 | onoːdə̌r xədə̌n be? | What is the date today? | <AudioPlayer src="/audio/L6-K1.mp3" /> |
 | onoːdə̌r ɑrbə̌n sɑr iːn gʊʧə̌n nəg næː odə̌r | Today is October 31. | <AudioPlayer src="/audio/L6-K2.mp3" /> |
@@ -86,8 +86,8 @@ _________ xədnæː odə̌r be?
 
 ![L6-S3](./images/L6-S3.gif)
 
-A: œrœː tɑː juː xiːx be?
-B: biː \_\_\_\_\_\_\_\_\_
+- A: œrœː tɑː juː xiːx be?
+- B: biː \_\_\_\_\_\_\_\_\_
 
 - sulʤəːn gɑrə̌n
 - təlwə̌s uʤə̌n
@@ -246,6 +246,8 @@ If you were able to say most of these things correctly then you are ready to go 
 
 *Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
+---
+
 **London Park** on November 22, 2013 at 7:23 am
 
 I know I keep asking alot of questions but that is a way to learn. I was wondering since the verbs go at the end of the sentence why did bol go before the another word in the sentence a couple of lessons ago, as in “Bi bagsh bishe, bi bol suregsh”. Thanks.
@@ -256,6 +258,8 @@ I know I keep asking alot of questions but that is a way to learn. I was wonderi
 >
 > I had to look this one up in my grammar book. I guess /bɔl/ isn’t technically considered a verb. It is a connecting particle (or Focus Particle, as my grammar book says.). It connects the subject of the sentence with its complement. It functions similarly to the English linking verb “to be”. However, unlike “is, am, are”, you can’t conjugate /bɔl/. (There is a similar verb /bɔl-/ (to become) and that one can be conjugated at the end of the sentence.)
 
+---
+
 **London Park** on November 23, 2013 at 5:39 am
 
 Thank you so much! That makes alot more sense. Also in the vocabulary list it has bɔl meaning to be okay. How do you tell the difference between that and bɔl to become?
@@ -263,6 +267,8 @@ Thank you so much! That makes alot more sense. Also in the vocabulary list it ha
 > **Suragch** on November 23, 2013 at 1:41 pm
 >
 > The verb /bɔl-/ can mean “okay” or “to become” depending on the context. It is a commonly used verb with a few different meanings. I forgot that in our lessons so far it has only meant “okay”.
+
+---
 
 **Kino Hasumi** on May 7, 2020 at 4:12 pm
 
@@ -272,3 +278,5 @@ Just 1 question, when we say “to read a book”, why say “nɔm ʊŋʃə̌n�
 > **Suragch** on August 20, 2020 at 1:21 pm
 >
 > As I understand it, when talking about reading a book in general you say “nɔm ʊŋʃə̌n” but if you were talking about a specific book, like this book, you’d say “ən nɔmig ʊŋʃə̌n”.
+
+---

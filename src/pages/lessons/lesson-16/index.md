@@ -8,7 +8,7 @@ title: Lesson 16
 
 ![L16-K](./images/L16-K.png)
 
-| | | |
+| Mongolian | English | Audio |
 | --- | --- | --- |
 | ʧi ʃɔg ʤuʤə̌g uʤə̌ʤ oŋgə̌rsə̌n ʊː? | Have you ever seen a funny play? | <AudioPlayer src="/audio/L16-K1.mp3" /> |
 | bi ʃɔg ʤuʤə̌g uʤə̌ʤ oŋgə̌rsə̌n gue | I've never seen a funny play. | <AudioPlayer src="/audio/L16-K2.mp3" /> |

@@ -80,7 +80,7 @@ title: Lesson 9
 
 <AudioPlayerSeek src="/audio/L9-S2.mp3" />
 
-**______-ɑːræː/ɔːrœː/əːreː**
+______-ɑːræː/ɔːrœː/əːreː
 
 - ʤɔːglɔːrœː
 - sʊːgɑːræː

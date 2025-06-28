@@ -108,21 +108,8 @@ Here we can see how to say you don't want to do something.
 
 *Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
-**Cong Nie** on August 17, 2015 at 12:00 am
-
-Sain baina uu？
-Dont give up ur work lol，thanks to ur lessons now i can talk to my friends in Inner Mongolia. Come on
-
 ---
-**Warrick** on September 6, 2015 at 4:30 am
 
-Inspirational. Hopefully life doesn’t keep you too long, these lessons are really helpful!
-
-> **Suragch** on October 1, 2015 at 7:50 pm
->
-> Working on developing Mongol apps has kept me busy recently. Although I am continuing my own personal study of Mongolian, I have neglected working on getting more lessons online. Sorry about that. If anyone one else is interested in contributing to this website let me know.
-
----
 **Sakura** on May 9, 2017 at 12:25 pm
 
 Your website has been so amazingly helpful and i can’t thankyou enough for the helpful audio as well. I see you last updated in 2015. I wonder where you are now, i really hope you can come back to updating this website again. There’s is so much to know.
@@ -132,12 +119,9 @@ Your website has been so amazingly helpful and i can’t thankyou enough for the
 > I actually have the lessons all recorded through lesson 20. It takes about 10 hours of work to do the editing for every lesson, though, so I haven’t gotten around to it. For the past couple years I’ve spent more of my time developing Mongolian cell phone software like the Chimee app. I’m also continuing my own private Mongolian study. It helps to know that people like you are actually using the lessons so hopefully that will be a motivation to get some more out.
 > 
 > You can view the unfinished lessons by typing the lesson number in the page address. For example, lesson 13 is [http://www.studymongolian.net/lessons/lesson-13/](http://www.studymongolian.net/lessons/lesson-13/). When I finish the lessons I will add links in the menu.
->
->> **Johannes** on September 17, 2017 at 3:46 pm
->>
->> I can only support the comments of Sakura and others and encourage you to continue the good work. As for the downloads, I wonder if you could add lesson 12 and 13 to the list of downloads? To me lesson 13 looks nearly perfect, perhaps just lacking some grammatical explanations.
 
 ---
+
 **Pierre** on January 11, 2020 at 7:24 pm
 
 Could someone remind me what the verb ending “TanelchilaaD UG” mean? (Expansion drill, last word) Thk u

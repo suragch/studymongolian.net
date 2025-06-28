@@ -64,10 +64,10 @@ ________ ʊːlʤjɑː
 
 ![L4-S2](./images/L4-S2.gif)
 
-A: tər \_\_\_\_ mon ʊː?
-B: tər \_\_\_\_ biʃe tər bɔl \_\_\_\_
+- A: tər \_\_\_\_ mon ʊː?
+- B: tər \_\_\_\_ biʃe tər bɔl \_\_\_\_
 
-| | |
+| A | B |
 | :-- | :-- |
 | <ul><li>bɑgʃ</li><li>əmʧ</li><li>tɑnæː œxə̌n duː ʧin</li><li>ʧiniː næːʤ ʧin</li></ul> | <ul><li>sʊrə̌gʧ</li><li>ʧɑgdɑː</li><li>miniː næːʤ</li><li>miniː ɑx</li></ul> |
 
@@ -104,7 +104,7 @@ There are a lot of ways to ask what somebody’s name is. It will help to become
 
 <AudioPlayerSeek src="/audio/L4-E1.mp3" />
 
-| | |
+| Mongolian | Explanation |
 | :-- | :-- |
 | tɑnæː ɑldə̌r xən gədəg be? | This is probably the best one to use for when you want to be polite. /ɑldə̌r/ is a very respectful word for name. |
 | tɑnæː nər ʧin xən be? | This is also a polite way of asking. |
@@ -241,6 +241,8 @@ If you were able to say most of these things correctly then you are ready to go 
 
 *Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
+---
+
 **London Park** on November 21, 2013 at 2:55 am
 
 In line seven of substitution two in this lesson, it has “ʧiniː næːʤ ʧin” is the “ʧiniː” and “ʧin” a different word or different spelling? I didn’t quite understand this sentence. Can you help? Thanks!
@@ -255,9 +257,11 @@ In line seven of substitution two in this lesson, it has “ʧiniː næːʤ ʧin
 >
 > This all deserves its own grammar explanation some day.
 
-**London Park** on November 25, 2013 at 3:33 am
+> **London Park** on November 25, 2013 at 3:33 am
+>
+>That makes alot of sense! Thanks. It reminds me of saying 我妹妹 and 我妈妈， in Chinese instead of saying 我的妈妈，我的。。。 because you don’t possess the people 的 is not needed.
 
-That makes alot of sense! Thanks. It reminds me of saying 我妹妹 and 我妈妈， in Chinese instead of saying 我的妈妈，我的。。。 because you don’t possess the people 的 is not needed.
+---
 
 **Aurele** on March 20, 2017 at 2:10 pm
 
@@ -265,17 +269,21 @@ Hello!
 Great job for these lesson, thanks a lot it is very helpful :).
 I am going to Mongolia soon and I want to learn the basic to be able to communicate a little. It is very hard so far, especially pronunciation…
 I just realize there are many ways of saying the same thing. For example just to say “you” there is (so far)
+
 -tɑː
 -tɑːnə̌r
 -tɑːnʊːs
 -tɑnig
 -ʧɑmə̌g
+
 Is it really important to learn them all, or to speak the basic just knowing the first 2 is enough?
 Thanks a lot
 
 > **Suragch** on March 21, 2017 at 1:18 pm
 >
 > They are all import eventually for grammatical reasons, but I imagine you could get by with just “tɑ:” to begin with. Also, if you are going to the country of Mongolia, you should know that this site teaches Mongolian as it is spoken in Inner Mongolia (China). There are some differences in pronunciation and vocabulary with Outer Mongolia. (“tɑ:” is the same, though.)
+
+---
 
 **London Park** on September 29, 2017 at 4:56 am
 
@@ -288,3 +296,5 @@ Thanks again for this website, its really great.
 > **Suragch** on September 30, 2017 at 4:09 pm
 >
 > I’m pretty sure I must have been sleeping when I wrote that. It’s wrong. Thank your for pointing it out. It should be “edur”.
+
+---

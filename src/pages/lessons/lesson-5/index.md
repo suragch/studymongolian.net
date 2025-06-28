@@ -172,8 +172,8 @@ Two other grammar words that we saw this lesson were /təːn/ and /tɑːn/. Ther
 |---|---|
 | Is Ulaan in the dorm? | ʊlɑːn bæːrt bæn u? |
 | Is Ulaan in *her* dorm? | ʊlɑːn bæːr tɑːn bæn u? |
-| Is Mr. going to the house? | ʤɑŋ bɑgʃ gərt ɔʧn ʊː? |
-| Is Mr. going to *his* home? | ʤɑŋ bɑgʃ gər təːn ɔʧn ʊː? |
+| Is Mr. Zhang going to the house? | ʤɑŋ bɑgʃ gərt ɔʧn ʊː? |
+| Is Mr. Zhang going to *his* home? | ʤɑŋ bɑgʃ gər təːn ɔʧn ʊː? |
 
 It seems like there are are lot of words and ways to express belonging in Mongolian. I'm sure it will make more sense the more we interact with it.
 
@@ -227,6 +227,8 @@ If you were able to say most of these things correctly then you are ready to go 
 
 *Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
+---
+
 **Bathrobe** on September 25, 2013 at 6:50 pm
 
 Her pronunciation of /dɔtə̌gʃɔː/ isn’t just lacking the /g/.
@@ -243,6 +245,8 @@ To my ear, the end result is a pronunciation something like /tɔʃʃɔː/.
 >
 > (For other readers of this comment, Bathrobe is talking about the pronunciation at the end of Dialog Two. By the way, check out Bathrobe’s excellent Mongolian writing summary at http://www.cjvlang.com/Writing/writmongol/mongolalpha.html)
 
+---
+
 **zamiin hun** on March 22, 2015 at 4:34 pm
 
 ene hoyor abyaalagchiin heleh bur adilgui baina shu! ta hen be ? geh ed emegdtenii ta heni be ? geh met arbin baina shu. za amjilt
@@ -250,6 +254,8 @@ ene hoyor abyaalagchiin heleh bur adilgui baina shu! ta hen be ? geh ed emegdten
 > **Suragch** on March 23, 2015 at 12:10 pm
 >
 > Both of our teachers come from Xilingol, Inner Mongolia. They do have slightly different accents from each other, but I have found these differences to be minor. In less standard dialect areas of Inner Mongolia the pronunciation differences are even greater, so being able to recognize and adapt to the differences is an important part learning Mongolian. Something I would like to add in the future are dialect samples from across the Mongol speaking world.
+
+---
 
 **ssMongol** on March 21, 2023 at 1:15 am
 

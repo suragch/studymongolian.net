@@ -271,6 +271,8 @@ If you were able to say most of these things correctly then you are ready to go 
 
 *Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
+---
+
 **London Park** on November 19, 2013 at 9:32 pm
 
 Hey!
@@ -282,6 +284,8 @@ Thanks for another lesson. I am learning so much. And numbers are hard but you t
 > Good question. The new words that appear in the Grammar section I don’t usually put in the vocabulary list. This one should be, though. You will see it again in Lesson 5, and it is in the vocabulary list there.
 >
 > Anyway, /bogoːd/ basically means “and” when it is used with a number. It is used for 101, 102, 103, 104, 105, 106, 107, 108, and 109 to indicate the zero between the hundred’s place and the one’s place. Same thing for 201, 304, 702, 1001, etc.
+
+---
 
 **Martin** on February 17, 2015 at 5:24 pm
 
@@ -299,3 +303,5 @@ dorə̌bdʊgɑːr ɔn
 > **Suragch** on February 19, 2015 at 10:40 pm
 >
 > I don’t think there is a problem with the transliteration. That is, I think I wrote it as our teachers said it. However, it sounds like your question is more of a grammatical one. Are you saying, shouldn’t the years end with the ordinal -dʊgɑːr suffix? That would make it the two thousand and thirteenth year and the two thousand and fourteenth year, which would make sense in a way. As far as I know, though, that is not how years are said. (But it is how months are said, as we learned in the grammar section.)
+
+---

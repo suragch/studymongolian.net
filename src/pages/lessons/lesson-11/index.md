@@ -8,7 +8,7 @@ title: Lesson 11
 
 ![L11-K](./images/L11-K.gif)
 
-| | | |
+| Mongolian | English | Audio |
 | :--- | :--- | :--- |
 | tɑː yuː ɑbə̌x be? | What would you like to buy? | <AudioPlayer src="/audio/L11-K1.mp3" /> |
 | biː ʊrdɑːr uʤjəː | I’m just looking. | <AudioPlayer src="/audio/L11-K2.mp3" /> |
@@ -90,7 +90,7 @@ Notice that /ɑbjɑː/ (the last word) can also be pronounced /ɑbiː/.
 
 ### Vocabulary
 
-| | | |
+| Mongolian | English | Audio |
 | :--- | :--- | :--- |
 | ʊrdɑːr | first | <AudioPlayer src="/audio/L11-V-first.mp3" /> |
 | ɑlə̌mə̌rə̌d | apple | <AudioPlayer src="/audio/L11-V-apple.mp3" /> |
@@ -191,6 +191,8 @@ If you were able to say most of these things correctly then you are ready to go 
 
 *Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
+---
+
 **Bathrobe** on May 19, 2015 at 10:57 pm
 
 Well, I didn’t notice that you were back!
@@ -204,6 +206,8 @@ Two things:
 Another example: gar tærx bɔl xuni: ʧʊxǎl erdə̌n jum. gar ni aʤil xi:n, tærx ni jum sətgə̌n. (The hands and brain are important treasures of people. Their hands do work, their brains think of things.) Here ni appears to mean ‘of them’, ‘their’.
 
 I’ve also seen “ni” used in other contexts where it seemed like it was like a recapitulation of the subject. For instance, in English you can say, “Me and my dog, we’re great friends”, where “we” recapitulates “me and my dog” (or “You see that guy and girl, they’re lovers”, where “they” recapitulates “that guy and girl”). Well, in Mongolian it seems to me that “ni” may be used to form a kind of break between the subject and the predicate, by recapitulating the subject of the sentence and grammatically preparing you to launch into the predicate. I haven’t got any convincing examples at hand, but many times I’ve felt that “ni” serves no other purpose than to summarise what went before. In this sense, the sentence above could be restated as: “The hands and brain are important treasures of people. The hands, they do work, the brain, it thinks of things.” But this is just a feeling I have. I don’t think anyone’s done a really convincing linguistic analysis of “ni”.
+
+---
 
 **Dabus** on August 8, 2015 at 10:31 am
 

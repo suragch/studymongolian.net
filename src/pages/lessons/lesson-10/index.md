@@ -302,6 +302,8 @@ If you have any questions about this lesson or if you notice a mistake, then ple
 
 *Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
+---
+
 **Bathrobe** on December 3, 2013 at 10:25 pm
 
 I kept coming up against words I’ve never seen!
@@ -315,25 +317,11 @@ Tərgə̌n t threw me too. Tərə̌g just means ‘vehicle’; I guess it’s be
 > Thanks for your comment. I went back and changed /burə̌m/ to /burə̌n/. That was an astute observance on the the Chinese 百货. We are basing our dialogs on a Chinese textbook and in the dialog it was 百货楼. Because we are working from the Chinese, there is a tendency for the Mongolian dialogs to become a little more “Chinese” than they need to be, whether it be in vocab or grammar. We make a conscious effort to modify the dialogs to better fit Mongolian, but every now and then my teachers realize, oh, we don’t say it like that in Mongolian. I imagine a few things have slipped by, through. I have no idea if /burə̌n bɑrɑːd ɑsə̌r/ is one of them. I’ll have to ask.
 > 
 > At the same time, though, I want learn the Mongolian that is actually spoken in Inner Mongolia. And being in China, that means it is “Mongolian with Chinese characteristics”. I had to convince my teachers in a later lesson that I really did want to say 雪碧 and 可乐 and not just /ʊmdɑːn/, even though it meant just using the Chinese words with Mongolian pronunciation. Although I often hear Chinese words thrown into Mongolian sentences, my teachers are always reluctant to teach me to talk like that.
-> 
-> > **Bathrobe** on December 12, 2013 at 11:43 pm
-> >
-> > Burə̌n bɑrɑːd ɑsə̌r is in the dictionary so it’s probably a bona fide Mongolian word, in Inner Mongolia at least. There are a lot of differences in vocabulary from Mongolia, including a lot of calques on Chinese in Inner Mongolian. But there are also a lot of Chinese calques and borrowings in the Mongolian of Mongolia, too. (My favourites are tsagaan nogoo vs baicaa and hoolin ger vs guanz).
-> >
-> > It’s best to treat them like the differences between British and American vocabulary without worrying what might or might not have been borrowed from Chinese. Unless, of course, language in the textbook has been overly influenced by Chinese. The problem is that it’s not just the textbooks that have been influenced. The language itself has been influenced by Chinese. When they ask you yaruu yu?, this is a direct translation of 忙吗？ I’m not sure that they say it much in Mongolia.
 
-**Suragch** on December 14, 2013 at 10:44 pm
-
-Bathrobe: “It’s best to treat them like the differences between British and American vocabulary without worrying what might or might not have been borrowed from Chinese.”
-
-That’s a good way of looking at it.
-
-**Martin** on February 21, 2015 at 7:36 pm
-
-Thank you for this course on Mongolian. The use of the International phonetic alphabet makes it very difficult to search for words in the dictionary as the IPA transliteration often varies for the same word on this site. For example ʤʊrgɑː is sometimes written here with a “j”. Would it be possible to use a standard transliteration (such as the Vladimirtsov-Mostaert system) or even better the cyrillic version of the words as well as the vertical script.
-
-> **Suragch** on February 21, 2015 at 8:53 pm
+> **Bathrobe** on December 12, 2013 at 11:43 pm
 >
-> I agree that the dictionary is inconvenient to use. It is something I would like to improve in the future. And sorry about the typos. Anytime you notice an inconsistency if you can send me an email or message with their specific location I will fix them. That would also help others who use this site.
+> Burə̌n bɑrɑːd ɑsə̌r is in the dictionary so it’s probably a bona fide Mongolian word, in Inner Mongolia at least. There are a lot of differences in vocabulary from Mongolia, including a lot of calques on Chinese in Inner Mongolian. But there are also a lot of Chinese calques and borrowings in the Mongolian of Mongolia, too. (My favourites are tsagaan nogoo vs baicaa and hoolin ger vs guanz).
 >
-> I’m not planning to change the IPA transcription, but in the future I may add the Vladimirtsov-Mostaert system for Romanized word spellings. Both of these systems are used in the 蒙汉词典 (Mongolian-Chinese Dictionary) put out by Inner Mongolia University Publishing House, which is my standard.
+> It’s best to treat them like the differences between British and American vocabulary without worrying what might or might not have been borrowed from Chinese. Unless, of course, language in the textbook has been overly influenced by Chinese. The problem is that it’s not just the textbooks that have been influenced. The language itself has been influenced by Chinese. When they ask you yaruu yu?, this is a direct translation of 忙吗？ I’m not sure that they say it much in Mongolia.
+
+---

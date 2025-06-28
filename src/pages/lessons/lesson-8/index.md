@@ -85,11 +85,11 @@ The word for "half" is actually /xɑgə̌s/ but when it is followed by a t/d the
 
 <AudioPlayerSeek src="/audio/L8-S2.mp3" />
 
-ʧiː xəʤəː \_\_\_\_\_\_\_\_\_ t ɔʧə̌x be?
-\_\_\_\_\_\_\_\_\_\_\_\_\_ t ɔʧnɔː
+- A: ʧiː xəʤəː \_\_\_\_\_\_\_\_\_ t ɔʧə̌x be?
+- B: \_\_\_\_\_\_\_\_\_\_\_\_\_ t ɔʧnɔː
 
 :::info
-| | |
+| A | B |
 | :--- | :--- |
 | <ul><li>xəʧəːl in gər</li><li>æŋg in gər</li><li>mɑnæː bæːr</li><li>xɔːlə̌n gər</li><li>ʃɑŋxæː</li><li>jɑpə̌n (jɑfə̌n)</li></ul> | <ul><li>næːmə̌n ʧɑg ɑːs omə̌n</li><li>xɔjə̌r ʧɑg</li><li>dorbə̌n ʧɑg</li><li>ɑrbə̌n nəgə̌n ʧɑg tæbə̌n tɑbən</li><li>dɔlɔːn sɑr in xœrə̌n næːmə̌n</li><li>nəg sɑr in xœrə̌n tɑbə̌n</li></ul> |
 :::
@@ -183,7 +183,7 @@ Mongolians say "drink morning tea" rather than "eat breakfast." Tea means milk t
 
 In the Dialog notes above we saw that the word /xɑgə̌s/ ("half") was pronounced /xɑgsə̌d/ in the context of a sentence, and that this type of pronunciation change in words often happens in Mongolian. Let's look at some more examples here.
 
-| | |
+| Original | Pronunciation change |
 | :--- | :--- |
 | xɑgə̌s (half) | xɑgsə̌ d (at the half) |
 | ʊlə̌s (country) | ʊls ɑːs (from the country) |
@@ -201,7 +201,7 @@ In the Substitution section notes above I talked about the /əːr/ɑːr/ɔːr/o�
 
 There are four different pronunciations (ɑːr/əːr/ɔːr/oːr) based on the pronunciation of the word it follows. In addition to these four, a /g/ is added between the words if the preceding word ends in a long vowel or diphthong. Let's look at some examples (being out of context, though, I'm not sure about the accuracy of the English translations):
 
-| | |
+| Mongolian | English |
 | :--- | :--- |
 | ɑbx ɑːr | in order to get sth |
 | ərd əːr | |
@@ -223,7 +223,7 @@ Although, there are four pronunciations, there are only two written forms (ijɑr
 
 As I said, the meaning is generally for telling how something is done. Various prepositions like "by", "of", or "though" can be used to express the meaning. Let's look at some examples.
 
-| | |
+| Mongolian | English |
 | :--- | :--- |
 | biː nisgə̌l əːr irsə̌n | I came by plane. |
 | biː dʊgʊi gɑːr jæbsə̌n | I went by bicycle. |
