@@ -28,7 +28,7 @@ title: Lesson 7
 
 ![L7-K](./images/L7-K.gif)
 
-| | | |
+| Mongolian | English | Audio |
 |---|---|---|
 | tɑːnæː gər təːn xəduːl be? | How many people are in your family? | <AudioPlayer src="/audio/L7-K1.mp3" /> |
 | tɑːnæː əːʤ yɑmə̌r ɑʤə̌l xiːdə̌g be? | What does your mother do? | <AudioPlayer src="/audio/L7-K2.mp3" /> |
@@ -181,7 +181,7 @@ Pay attention to the verb roots to get the meaning, but also notice the verb end
 
 ## Vocabulary
 
-| | | |
+| Mongolian | Audio | English |
 |---|---|---|
 | xəduːl | <AudioPlayer src="/audio/L7-V-howmany.mp3" /> | how many in all |
 | ɑʤə̌l- | <AudioPlayer src="/audio/L7-V-work.mp3" /> | to work |
@@ -237,7 +237,7 @@ You may be wondering why four and nine have the /-uːl/ ending while the others 
 
 Let's look at some frequently used verb endings that we have already come across. There will be many more to learn but these are some of the most common and important. Note that sometimes an extra vowel follows the ending. This does not change the meaning.
 
-| | | |
+| Ending | Meaning | Example |
 |---|---|---|
 | -n | future tense. Somebody will do something. | bæːn, bæːnɑː, irnəː, ɔʧnɔː |
 | -də̌g | present tense. Somebody does something regularly.. | sʊrdə̌g, gədə̌gəː |

@@ -8,8 +8,9 @@ title: Lesson 2
 
 ![L2-K](./images/L2-K.gif)
 
-| tɑːnæː bəj ʧin sæːn ʊː? | How is your health? | <AudioPlayer src="/audio/L2-K1.mp3" /> |
+| Mongolian | English | Audio |
 |---|---|---|
+| tɑːnæː bəj ʧin sæːn ʊː? | How is your health? | <AudioPlayer src="/audio/L2-K1.mp3" /> |
 | bɑjə̌rllɑː | Thank you | <AudioPlayer src="/audio/L2-K2.mp3" /> |
 | bɑjirtæː | Goodbye | <AudioPlayer src="/audio/L2-K3.mp3" /> |
 
@@ -135,8 +136,9 @@ Listen to the differences:
 
 <AudioPlayerSeek src="/audio/L2-G1.mp3" />
 
-| 10 | ɑrə̌b |
+| Number | Pronunciation |
 |---|---|
+| 10 | ɑrə̌b |
 | 11 | ɑrbə̌n nəg |
 | 20 | xœr |
 | 21 | xœrə̌n nəg |

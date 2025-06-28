@@ -15,7 +15,7 @@ Review is very important for retaining what you have learned. At the very end of
 
 ![Lesson 1 key sentences](./images/L1-K.gif)
 
-| | | |
+| Mongolian | English | Audio |
 |---|---|---|
 | sæːn bæːn ʊː? | How are you? | <AudioPlayer src="/audio/key-1.mp3" /> |
 | sæːn ʊː? | How are you? | <AudioPlayer src="/audio/key-2.mp3" /> |
@@ -94,7 +94,7 @@ The subject pronouns (I, you, your, they) are optional when they are understood.
 
 ![L1-V](./images/L1-V.gif)
 
-| | | |
+| Mongolian | Audio | English |
 |---|---|---|
 | sæːn | <AudioPlayer src="/audio/L1-V-good.mp3" /> | good |
 | bæːnɑː | <AudioPlayer src="/audio/L1-V-have.mp3" /> | have, be |

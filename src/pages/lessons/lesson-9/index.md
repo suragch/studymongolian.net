@@ -25,7 +25,7 @@ title: Lesson 9
 
 ![L9-K](./images/L9-K.gif)
 
-| | | |
+| Mongolian | English | Audio |
 |---|---|---|
 | tɑː xɑː sʊːʤ bæːgɑː be? | Where do you live? | <AudioPlayer src="/audio/L9-K1.mp3" /> |
 | bæːr t sʊːʤ bæːnɑː | (I) live in the dorms. | <AudioPlayer src="/audio/L9-K2.mp3" /> |
@@ -164,7 +164,7 @@ Notice how the question "Where is Teacher Wang staying?" is changed to "Do you k
 
 ## Vocabulary
 
-| | | |
+| Mongolian | English | Audio |
 |---|---|---|
 | sʊː- | to sit, to live or stay somewhere | <AudioPlayer src="/audio/L9-V-sit.mp3" /> |
 | urgə̌lʤ | always | <AudioPlayer src="/audio/L9-V-always.mp3" /> |
@@ -204,7 +204,7 @@ This is a case suffix in Mongolian. In the traditional script it is always writt
 
 Here are some more examples to help you understand the pronunciation and usage a little better.
 
-| | |
+| Mongolian | English |
 |---|---|
 | biː ɑːb ɑːs ɑbsə̌n | I got it from father. |
 | əːʤ əːs ɑsʊːi | Ask your mother. |
@@ -228,7 +228,7 @@ Compare the way these are pronounced with how `/əːr/ɑːr/ɔːr/oːr/` is pron
 
 You might have been confused when you saw that `/bɔl/` was defined as "if" in today's vocabulary. In Lesson 4 we learned that `/bɔl/` meant "is" or "are." The meaning depends on how it is used.
 
-| | |
+| Mongolian | English |
 |---|---|
 | tər bɔl sʊrə̌gʧ | She is a student. |
 | tər sʊrə̌gʧ bɔl, tər bɑrə̌g bæːr t sʊːdə̌g | If she is a student, she probably lives in the dorms. |
@@ -239,7 +239,7 @@ Most of the time when "if" is used in a sentence, it is actually made by conjuga
 
 `verb` + `/-x/` ending + `/ugue/` + `/bɔl/`.
 
-| | |
+| Mongolian | English |
 |---|---|
 | ʧiː jɑm mədə̌xgue bɔl bid ʧʊg jæbjɑː | If you don't know the way, let's go together. |
 | tər bɑgʃ ɑːs ɑsʊːx gue bɔl tər mədə̌x gue | If he doesn't ask his teacher, he won't know. |

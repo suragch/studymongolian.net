@@ -12,7 +12,7 @@ There doesn't seem to be any standard way of romanizing the Mongolian sounds wit
 ### Vowel sounds
 The first seven vowels below are the seven basic vowels of Mongolian. (See the section on Mongolian writing.)
 
-| Sound | Listen | Sample words | Listen |
+| Sound | Audio | Sample words | Audio |
 |---|---|---|---|
 | ɑ | <AudioPlayer src="/audio/Vowel-1-a.mp3" /> | ɑːb (father), ʧɑg (time) | <AudioPlayer src="/audio/Pronunciation-vowels-words-1a.mp3" /> |
 | ə | <AudioPlayer src="/audio/Vowel-2-e.mp3" /> | təgəːd (then), dəːr (before) | <AudioPlayer src="/audio/Pronunciation-vowels-words-2e.mp3" /> |
@@ -31,7 +31,7 @@ It should also be noted that /i/ is sometimes also pronounced /ɪ/ (the sound in
 ### Long Vowels vs. Short Vowels
 The length of the vowel sound matters in Mongolian. It can change the meaning of a word. Listen to the difference between long and short vowel sounds.
 
-| Long | Short | Listen |
+| Long | Short | Audio |
 |---|---|---|
 | ʧɑːs (paper) | ʧɑs (snow) | <AudioPlayer src="/audio/Pronunciation-long-short-words-1a.mp3" /> |
 | dəːr (above) | dər (pillow) | <AudioPlayer src="/audio/Pronunciation-long-short-words-2e.mp3" /> |
@@ -47,7 +47,7 @@ The length of the vowel sound matters in Mongolian. It can change the meaning of
 ### Weak vowels
 The last syllable of a word often has a week vowel sound. Although commonly stressed, it is very short and indistinct. The sound differs slightly according to the vowel in the syllable before it, but for simplicity's sake we are going to use just one symbol to represent this week vowel sound. I've noticed that on some computers this symbol does not display correctly. (It should look like an up-side-down e with a smile on top.) If so, you may need to install a Unicode font on your computer. [You can get directions here.](http://www.unicode.org/help/display_problems.html)
 
-| Sound | Listen | Sample words |
+| Sound | Audio | Sample words |
 |---|---|---|
 | ə̌ | <AudioPlayer src="/audio/Pronunciation-weak-vowels-words.mp3" /> | tɑːnə̌r, sœnə̌n, ɔrə̌s, dəbtə̌r, udə̌ʃ, omə̌n, irə̌x, bæːʃə̌ŋ |
 
@@ -55,7 +55,7 @@ The last syllable of a word often has a week vowel sound. Although commonly stre
 ### Diphthongs
 These are sounds formed by a combination of two different vowels.
 
-| Sound | Sample words | Listen |
+| Sound | Sample words | Audio |
 |---|---|---|
 | ʊɑ | gʊɑ (mellon) | <AudioPlayer src="/audio/Pronunciation-diphthongs-words-1ua.mp3" /> |
 | ʊi | ʊilə̌n (cry), xɑrə̌ŋgʊi (dark) | <AudioPlayer src="/audio/Pronunciation-diphthongs-words-2ui.mp3" /> |
@@ -66,7 +66,7 @@ These are sounds formed by a combination of two different vowels.
 ### Consonants
 Listen carefully and don't just assume that you know the sound. Some of these sounds are different than the English ones, especially in middle and at the end of words (note /b/, /l/, /r/ in particular).
 
-| Sound | Listen | Sample words | Listen |
+| Sound | Audio | Sample words | Audio |
 |---|---|---|---|
 | n | <AudioPlayer src="/audio/Pronunciation-consonants-1-n.mp3" /> | nar (sun), undəs (root), hun (person) | <AudioPlayer src="/audio/Pronunciation-consonants-words-1n.mp3" /> |
 | b | <AudioPlayer src="/audio/Pronunciation-consonants-2-b.mp3" /> | biːr , ɑbə̌g (take), ɑːb (father) | <AudioPlayer src="/audio/Pronunciation-consonants-words-2b.mp3" /> |
