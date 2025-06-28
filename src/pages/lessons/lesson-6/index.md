@@ -4,25 +4,6 @@ title: Lesson 6
 
 # Lesson 6
 
-- [Lesson 6](#lesson-6)
-  - [Key Sentences](#key-sentences)
-  - [Dialogs](#dialogs)
-    - [One](#one)
-    - [Two](#two)
-  - [Substitution](#substitution)
-    - [One](#one-1)
-    - [Two](#two-1)
-    - [Three](#three)
-    - [Four](#four)
-  - [Expansion](#expansion)
-    - [One](#one-2)
-    - [Two](#two-2)
-  - [Vocabulary](#vocabulary)
-  - [Grammar](#grammar)
-    - [Word Order](#word-order)
-  - [Practice](#practice)
-  - [Comments](#comments)
-
 ## Key Sentences
 
 ![L6-K](./images/L6-K.gif)

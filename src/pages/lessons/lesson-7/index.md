@@ -4,26 +4,6 @@ title: Lesson 7
 
 # Lesson 7
 
-- [Lesson 7](#lesson-7)
-  - [Key Sentences](#key-sentences)
-  - [Dialogs](#dialogs)
-    - [One](#one)
-    - [Two](#two)
-    - [Three](#three)
-  - [Substitution](#substitution)
-    - [One](#one-1)
-    - [Two](#two-1)
-    - [Three](#three-1)
-    - [Four](#four)
-  - [Expansion](#expansion)
-    - [One](#one-2)
-  - [Vocabulary](#vocabulary)
-  - [Grammar](#grammar)
-    - [All of us](#all-of-us)
-    - [Verb Endings](#verb-endings)
-  - [Practice](#practice)
-  - [Comments](#comments)
-
 ## Key Sentences
 
 ![L7-K](./images/L7-K.gif)

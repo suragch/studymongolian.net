@@ -4,7 +4,7 @@ title: Lesson 3
 
 # Lesson 3
 
-### Key Sentences
+## Key Sentences
 
 ![L3-K](./images/L3-K.gif)
 

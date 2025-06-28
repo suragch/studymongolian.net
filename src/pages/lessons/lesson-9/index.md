@@ -4,23 +4,6 @@ title: Lesson 9
 
 # Lesson 9
 
-- [Lesson 9](#lesson-9)
-  - [Key Sentences](#key-sentences)
-  - [Dialogs](#dialogs)
-    - [One](#one)
-    - [Two](#two)
-  - [Substitution](#substitution)
-    - [One](#one-1)
-    - [Two](#two-1)
-    - [Three](#three)
-    - [Four](#four)
-  - [Expansion](#expansion)
-  - [Vocabulary](#vocabulary)
-  - [Grammar](#grammar)
-    - ["From"](#from)
-    - ["If"](#if)
-  - [Practice](#practice)
-
 ## Key Sentences
 
 ![L9-K](./images/L9-K.gif)

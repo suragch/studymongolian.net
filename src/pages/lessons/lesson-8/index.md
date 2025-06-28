@@ -4,24 +4,7 @@ title: Lesson 8
 
 # Lesson 8
 
-- [Lesson 8](#lesson-8)
-    - [Key Sentences](#key-sentences)
-    - [Dialogs](#dialogs)
-      - [One](#one)
-      - [Two](#two)
-    - [Substitution](#substitution)
-      - [One](#one-1)
-      - [Two](#two-1)
-      - [Three](#three)
-    - [Expansion](#expansion)
-    - [Vocabulary](#vocabulary)
-    - [Grammar](#grammar)
-      - [Changes in Word Pronunciation](#changes-in-word-pronunciation)
-      - [How Something is Done](#how-something-is-done)
-    - [Practice](#practice)
-  - [Comments](#comments)
-
-### Key Sentences
+## Key Sentences
 
 ![L8-K](./images/L8-K.gif)
 

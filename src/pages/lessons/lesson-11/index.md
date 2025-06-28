@@ -4,24 +4,6 @@ title: Lesson 11
 
 # Lesson 11
 
-- [Lesson 11](#lesson-11)
-    - [Key Sentences](#key-sentences)
-    - [Dialogs](#dialogs)
-      - [One](#one)
-      - [Two](#two)
-    - [Substitution](#substitution)
-      - [One](#one-1)
-      - [Two](#two-1)
-      - [Three](#three)
-    - [Expansion](#expansion)
-      - [One](#one-2)
-      - [Two](#two-2)
-    - [Vocabulary](#vocabulary)
-    - [Grammar](#grammar)
-      - [The Tricky “Ni”](#the-tricky-ni)
-    - [Practice](#practice)
-  - [Comments](#comments)
-
 ### Key Sentences
 
 ![L11-K](./images/L11-K.gif)

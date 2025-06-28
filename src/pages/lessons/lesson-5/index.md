@@ -4,23 +4,6 @@ title: Lesson 5
 
 # Lesson 5
 
-- [Lesson 5](#lesson-5)
-  - [Key Sentences](#key-sentences)
-  - [Dialogs](#dialogs)
-    - [One](#one)
-    - [Two](#two)
-  - [Substitution](#substitution)
-    - [One](#one-1)
-    - [Two](#two-1)
-  - [Expansion](#expansion)
-    - [One](#one-2)
-  - [Vocabulary](#vocabulary)
-  - [Grammar](#grammar)
-    - [Location](#location)
-    - [Belonging](#belonging)
-  - [Practice](#practice)
-  - [Comments](#comments)
-
 ## Key Sentences
 
 ![L5-K](./images/L5-K.gif)
