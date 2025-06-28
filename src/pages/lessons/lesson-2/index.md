@@ -188,9 +188,9 @@ How do you say the following sentences:
 - Thank you.
 - Goodbye.
 
-If you were able to say most of these things correctly then you are ready to go on to [lesson three](/lessons/lesson-3/). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while washing the dishes. Just right-click the link below and choose "Save Link As..." to download.
+If you were able to say most of these things correctly then you are ready to go on to [lesson three](/lessons/lesson-3/). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while washing the dishes. Click the three-dot menu at the right of the audio player below and choose "Download".
 
-[Main lesson 2](/audio/Main-lesson-2.mp3)
+<AudioPlayerSeek src="/audio/Main-lesson-2.mp3" />
 
 If you have any questions about this lesson or if you notice a mistake, then please leave a comment below. If I don't know the answer myself, then I will ask our teachers.
 

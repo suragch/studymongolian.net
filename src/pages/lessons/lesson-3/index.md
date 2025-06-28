@@ -260,9 +260,9 @@ Review by saying the following:
 - Thank you.
 - Goodbye.
 
-If you were able to say most of these things correctly then you are ready to go on to [lesson four](/lessons/lesson-4/). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while walking in the park. Just right-click the link below and choose “Save Link As…” to download.
+If you were able to say most of these things correctly then you are ready to go on to [lesson four](/lessons/lesson-4/). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while walking in the park. Click the three-dot menu at the right of the audio player below and choose "Download".
 
-[Main lesson 3](/audio/Main-lesson-3.mp3)
+<AudioPlayerSeek src="/audio/Main-lesson-3.mp3" />
 
 ![heading-logo.png](/img/heading-logo.png)
 

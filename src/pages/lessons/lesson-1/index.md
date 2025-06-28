@@ -15,8 +15,9 @@ Review is very important for retaining what you have learned. At the very end of
 
 ![Lesson 1 key sentences](./images/L1-K.gif)
 
-| sæːn bæːn ʊː? | How are you? | <AudioPlayer src="/audio/key-1.mp3" /> |
+| | | |
 |---|---|---|
+| sæːn bæːn ʊː? | How are you? | <AudioPlayer src="/audio/key-1.mp3" /> |
 | sæːn ʊː? | How are you? | <AudioPlayer src="/audio/key-2.mp3" /> |
 | sæːn bæːnɑː. | I'm doing well. | <AudioPlayer src="/audio/key-3.mp3" /> |
 | sæːn. | Good. | <AudioPlayer src="/audio/key-4.mp3" /> |
@@ -93,13 +94,13 @@ The subject pronouns (I, you, your, they) are optional when they are understood.
 
 ![L1-V](./images/L1-V.gif)
 
-| sæːn | <AudioPlayer src="/audio/L1-V-good.mp3" /> | good |
+| | | |
 |---|---|---|
+| sæːn | <AudioPlayer src="/audio/L1-V-good.mp3" /> | good |
 | bæːnɑː | <AudioPlayer src="/audio/L1-V-have.mp3" /> | have, be |
 | ʊː | <AudioPlayer src="/audio/L1-V-question-part.mp3" /> | question particle |
 | tɑː | <AudioPlayer src="/audio/L1-V-you.mp3" /> | you (polite) |
-| tɑːnə̌r | <AudioPlayer src="/audio/L1-V-you-all.mp3" /> | you (plural)
-(That's "y'all" for all y'all Texans out there.) |
+| tɑːnə̌r | <AudioPlayer src="/audio/L1-V-you-all.mp3" /> | you (plural) (That's "y'all" for all y'all Texans out there.) |
 | tɑːnæː | <AudioPlayer src="/audio/L1-V-your-polite.mp3" /> | your (polite) |
 | ɑːb | <AudioPlayer src="/audio/L1-V-father.mp3" /> | father |
 | əːʤ | <AudioPlayer src="/audio/L1-V-mother.mp3" /> | mother |
@@ -128,9 +129,9 @@ How do you say the following sentences:
 - Are you going?
 - Are your father and mother going?
 
-If you were able to say most of these things correctly then you are ready to go on to [lesson two](/lessons/lesson-2/). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while driving to work. Just right-click the link below and choose "Save Link As..." to download.
+If you were able to say most of these things correctly then you are ready to go on to [lesson two](/lessons/lesson-2/). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while driving to work. Click the three-dot menu at the right of the audio player below and choose "Download".
 
-[Main lesson 1](/audio/Main-lesson-1.mp3)
+<AudioPlayerSeek src="/audio/Main-lesson-1.mp3" />
 
 ![heading-logo](./images/heading-logo.png)
 

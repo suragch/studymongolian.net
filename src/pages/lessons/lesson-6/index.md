@@ -253,9 +253,9 @@ Review by saying the following:
 - Where are you going?
 - Goodbye.
 
-If you were able to say most of these things correctly then you are ready to go on to [lesson seven](/lessons/lesson-7/). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while going to school. Just right-click the link below and choose "Save Link As..." to download.
+If you were able to say most of these things correctly then you are ready to go on to [lesson seven](/lessons/lesson-7/). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while going to school. Click the three-dot menu at the right of the audio player below and choose "Download".
 
-[Lesson 6](/audio/Main-lesson-6.mp3)
+<AudioPlayerSeek src="/audio/Main-lesson-6.mp3" />
 
 ![heading-logo.png](/img/heading-logo.png)
 

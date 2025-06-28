@@ -4,13 +4,22 @@ title: Lesson 5
 
 # Lesson 5
 
-- [Key Sentences](#key-sentences)
-- [Dialogs](#dialogs)
-- [Substitution](#substitution)
-- [Expansion](#expansion)
-- [Vocabulary](#vocabulary)
-- [Grammar](#grammar)
-- [Practice](#practice)
+- [Lesson 5](#lesson-5)
+  - [Key Sentences](#key-sentences)
+  - [Dialogs](#dialogs)
+    - [One](#one)
+    - [Two](#two)
+  - [Substitution](#substitution)
+    - [One](#one-1)
+    - [Two](#two-1)
+  - [Expansion](#expansion)
+    - [One](#one-2)
+  - [Vocabulary](#vocabulary)
+  - [Grammar](#grammar)
+    - [Location](#location)
+    - [Belonging](#belonging)
+  - [Practice](#practice)
+  - [Comments](#comments)
 
 ## Key Sentences
 
@@ -223,9 +232,9 @@ Review by saying the following:
 *   What is your name?
 *   Nice to meet you.
 
-If you were able to say most of these things correctly then you are ready to go on to [lesson six](/lessons/lesson-6/). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while climbing a mountain. Just right-click the link below and choose "Save Link As..." to download.
+If you were able to say most of these things correctly then you are ready to go on to [lesson six](/lessons/lesson-6/). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while climbing a mountain. Click the three-dot menu at the right of the audio player below and choose "Download".
 
-[Lesson 5](/audio/Main-lesson-5.mp3)
+<AudioPlayerSeek src="/audio/Main-lesson-5.mp3" />
 
 ![heading-logo.png](/img/heading-logo.png)
 

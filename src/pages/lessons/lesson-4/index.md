@@ -229,9 +229,9 @@ Review by saying the following:
 -   It's 2011 this year.
 -   Goodbye.
 
-If you were able to say most of these things correctly then you are ready to go on to [lesson five](/lessons/lesson-5). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while walking the dog. Just right-click the link below and choose "Save Link As..." to download.
+If you were able to say most of these things correctly then you are ready to go on to [lesson five](/lessons/lesson-5). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening while walking the dog. Click the three-dot menu at the right of the audio player below and choose "Download".
 
-[Main lesson 4](/audio/Main-lesson-4.mp3)
+<AudioPlayerSeek src="/audio/Main-lesson-4.mp3" />
 
 ![heading-logo.png](/img/heading-logo.png)
 

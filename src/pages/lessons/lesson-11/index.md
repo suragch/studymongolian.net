@@ -197,9 +197,9 @@ Review by saying the following:
 - Go straight.
 - Where can I get on the Internet?
 
-If you were able to say most of these things correctly then you are ready to go on to [Lesson 12](/lessons/lesson-12). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening on your flight to China. Just right-click the link below and choose “Save Link As…” to download.
+If you were able to say most of these things correctly then you are ready to go on to [Lesson 12](/lessons/lesson-12). If not, then keep practicing! You can also download the audio for the whole lesson so that you can practice listening on your flight to China. Click the three-dot menu at the right of the audio player below and choose "Download".
 
-[Lesson 11](/audio/Main-lesson-11.mp3)
+<AudioPlayerSeek src="/audio/Main-lesson-11.mp3" />
 
 ![heading-logo.png](/img/heading-logo.png)
 

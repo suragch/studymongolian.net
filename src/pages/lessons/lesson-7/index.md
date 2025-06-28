@@ -290,9 +290,9 @@ Review by saying the following:
 - What is your name?
 - What day is it tomorrow?
 
-If you were able to say most of these things correctly then you are ready to go on to [lesson eight](/lessons/lesson-8/). If not then keep practicing. You can also download the audio for the whole lesson so that you can practice listening while fixing your car. Just right-click the link below and choose "Save Link As..." to download.
+If you were able to say most of these things correctly then you are ready to go on to [lesson eight](/lessons/lesson-8/). If not then keep practicing. You can also download the audio for the whole lesson so that you can practice listening while fixing your car. Click the three-dot menu at the right of the audio player below and choose "Download".
 
-[Lesson 7](/audio/Main-lesson-7.mp3)
+<AudioPlayerSeek src="/audio/Main-lesson-7.mp3" />
 
 ![heading-logo.png](/img/heading-logo.png)
 
