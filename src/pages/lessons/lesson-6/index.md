@@ -257,7 +257,7 @@ If you were able to say most of these things correctly then you are ready to go 
 
 [Lesson 6](/audio/Main-lesson-6.mp3)
 
-![heading-logo.png](./images/heading-logo.png)
+![heading-logo.png](/img/heading-logo.png)
 
 If you have any questions about this lesson or if you notice a mistake, then please leave a comment below. If I don't know the answer myself, then I will ask our teachers.
 
