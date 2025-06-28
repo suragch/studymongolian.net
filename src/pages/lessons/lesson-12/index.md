@@ -102,7 +102,11 @@ Here we can see how to say you don't want to do something.
 
 ![L12-V](./images/L12-V.png)
 
+---
+
 ## Comments
+
+*Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
 **Cong Nie** on August 17, 2015 at 12:00 am
 

@@ -88,6 +88,8 @@ title: Lesson 14
 
 ![L14-V](./images/L14-V.png)
 
-:::note
-If you have any questions about this lesson or if you notice a mistake, then please leave a comment below. If I don’t know the answer myself, then I will ask our teachers.
-:::
+---
+
+## Comments
+
+*Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*

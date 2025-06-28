@@ -296,7 +296,11 @@ If you have any questions about this lesson or if you notice a mistake, then ple
 
 ![heading-logo.png](/img/heading-logo.png)
 
+---
+
 ## Comments
+
+*Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
 **Bathrobe** on December 3, 2013 at 10:25 pm
 

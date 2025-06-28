@@ -276,11 +276,11 @@ If you were able to say most of these things correctly then you are ready to go 
 
 ![heading-logo.png](/img/heading-logo.png)
 
-If you have any questions about this lesson or if you notice a mistake, then please leave a comment below. If I don't know the answer myself, then I will ask our teachers.
-
 ---
 
 ## Comments
+
+*Do you have a comment or question that would be helpful for others here? Copy the link to this page and [email me](/contact/) your comment or question.*
 
 **Roddy** on June 16, 2014 at 2:58 pm
 
