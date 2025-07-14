@@ -2,31 +2,9 @@
 
 Professor Hitoshi Kuribayashi of Tohoku University in Japan and Professor U. Hurelbator of Inner Mongolia University in China have graciously given permission to provide their textbook, *Elementary Mongolian* (モンゴル語入門，フレルバ-トル 栗林均 編，東京外国語大学，アヅアアフリカ 言語文化研究所，1997), on this website. Even though I don’t speak Japanese, I still think this is one of the best Mongolian textbooks I have seen. I’m currently going through the dialogs in the back of the book with my tutor. I’ll try to provide an approximate English translation when I finish a lesson. The textbook and audio are provided for educational purposes only. All copyrights belong to the authors. If you want to use them for any other purposes, you should contact Professors Kuribayashi and Hurelbator directly.
 
-[Download textbook (.pdf)](/?ddownload=2954)
-[Download textbook audio (.zip)](/?ddownload=2955)
+- <a href="/static/media/Elementary_Mongolian_book_1.pdf" download>Download textbook (.pdf)</a>
 
-Lesson Index:
-- [Pronunciation](#Lesson-0)
-- [Lesson 1](#Lesson-1)
-- [Lesson 2](#Lesson-2)
-- [Lesson 3](#Lesson-3)
-- [Lesson 4](#Lesson-4)
-- [Lesson 5](#Lesson-5)
-- [Lesson 6](#Lesson-6)
-- [Lesson 7](#Lesson-7)
-- [Lesson 8](#Lesson-8)
-- [Lesson 9](#Lesson-9)
-- [Lesson 10](#Lesson-10)
-- [Lesson 11](#Lesson-11)
-- [Lesson 12](#Lesson-12)
-- [Lesson 13](#Lesson-13)
-- [Lesson 14](#Lesson-14)
-- [Lesson 15](#Lesson-15)
-- [Lesson 16](#Lesson-16)
-- [Lesson 17](#Lesson-17)
-- [Lesson 18](#Lesson-18)
-- [Lesson 19](#Lesson-19)
-- [Lesson 20](#Lesson-20)
+- <a href="/static/media/EM_book_1_audio.zip" download>Download textbook audio (.zip)</a>
 
 It has been helpful for me to do listening dictation on these audio recordings. You might find a similar exercise helpful as well. You can download the audio or listen to it online. If you find any mistakes in the translation let me know.
 
@@ -34,16 +12,18 @@ It has been helpful for me to do listening dictation on these audio recordings. 
 Textbook page xx
 <AudioPlayerSeek src="/audio/Lesson-0-Pronunciation.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ### Lesson 1
 Textbook pp. 141-143
 <AudioPlayerSeek src="/audio/Lesson-1.mp3" />
 
-:::note
-Lesson 1One
+```
+Lesson 1
+
+One
 What is this?
 It’s a book.
 What is this?
@@ -90,13 +70,15 @@ Thank you.
 You’re welcome.
 Well, goodbye.
 Bye.
-:::
+```
 
 ### Lesson 2
 <AudioPlayerSeek src="/audio/Lesson-2.mp3" />
 
-:::note
-Lesson 2One
+```note
+Lesson 2
+
+One
 Is there a Mongolian book here?
 Yes. There is a Mongolian book.
 Is there an English book?
@@ -145,13 +127,15 @@ I slept well.
 What is your name?
 My name is Hurel. What is your name?
 I’m Oyon.
-:::
+```
 
 ### Lesson 3
 <AudioPlayerSeek src="/audio/Lesson-3.mp3" />
 
-:::note
-Lesson 3One
+```note
+Lesson 3
+
+One
 Baatar.
 Yes? What is it?
 Is your father here?
@@ -198,13 +182,15 @@ Wait. In that case, is Sambuu also there?
 No. He is in the Physics Department.
 Is he also teaching?
 No. He is taking a break. (retired?)
-:::
+```
 
 ### Lesson 4
 <AudioPlayerSeek src="/audio/Lesson-4.mp3" />
 
-:::note
-Lesson 4One
+```note
+Lesson 4
+
+One
 What are you doing today?
 I’m going to go shopping today.
 Are you going alone?
@@ -262,13 +248,15 @@ What are you going to do?
 I’m going to stay in a yurt and also ride a horse.
 Mongolia is beautiful!
 Yes. Very beautiful.
-:::
+```
 
 ### Lesson 5
 <AudioPlayerSeek src="/audio/Lesson-5.mp3" />
 
-:::note
-Lesson 5One
+```note
+Lesson 5
+
+One
 Where did you go yesterday?
 I went to the library.
 Then what did you do?
@@ -315,13 +303,15 @@ Will he come back today?
 He won’t come today. He will come tomorrow.
 Did your mother go?
 No. Mother didn’t go. She is at home.
-:::
+```
 
 ### Lesson 6
 <AudioPlayerSeek src="/audio/Lesson-6.mp3" />
 
-:::note
-Lesson 6One
+```note
+Lesson 6
+
+One
 Give me that book.
 Which book?
 That blue book.
@@ -368,13 +358,15 @@ It started last Monday. Call me tomorrow, OK?
 OK. Is six o’clock OK?
 Please don’t call so early. Please call me at 7:00.
 OK. Got it.
-:::
+```
 
 ### Lesson 7
 <AudioPlayerSeek src="/audio/Lesson-7.mp3" />
 
-:::note
-Lesson 7One
+```note
+Lesson 7
+
+One
 What time do you get up in the morning?
 I get up at 6:00.
 Do you exercise every day?
@@ -415,13 +407,15 @@ Mother calls me son.
 Older sister calls me younger brother.
 It is said, do good deeds.
 It is said, wear a good name.
-:::
+```
 
 ### Lesson 8
 <AudioPlayerSeek src="/audio/Lesson-8.mp3" />
 
-:::note
-Lesson 8One
+```note
+Lesson 8
+
+One
 What do you like to eat?
 There are a lot of things that I like to eat.
 Do you like meat?
@@ -466,13 +460,15 @@ What do you like to eat?
 I like to eat meat the most.
 Don’t you like to eat buus?
 I don’t like buus that much.
-:::
+```
 
 ### Lesson 9
 <AudioPlayerSeek src="/audio/Lesson-9.mp3" />
 
-:::note
-Lesson 9One
+```note
+Lesson 9
+
+One
 So, what would you like to buy?
 I’ll get some lamb.
 How much do you want?
@@ -517,12 +513,12 @@ On August 30th.
 In that case, we are the same age.
 You were also born in ’72?
 Yes.
-:::
+```
 
 ### Lesson 10
 <AudioPlayerSeek src="/audio/Lesson-10.mp3" />
 
-:::note
+```note
 Lesson 10
 
 One
@@ -570,120 +566,98 @@ Is it OK if I take it for a ride?
 That’s fine. Where are you going?
 I’m going to go ride it around on the street, OK? (???)
 Fine, fine.
-:::
+```
 
 ### Lesson 11
 <AudioPlayerSeek src="/audio/Lesson-11.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ### Lesson 12
 <AudioPlayerSeek src="/audio/Lesson-12.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ### Lesson 13
 <AudioPlayerSeek src="/audio/Lesson-13.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ### Lesson 14
 <AudioPlayerSeek src="/audio/Lesson-14.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ### Lesson 15
 <AudioPlayerSeek src="/audio/Lesson-15.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ### Lesson 16
 <AudioPlayerSeek src="/audio/Lesson-16.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ### Lesson 17
 <AudioPlayerSeek src="/audio/Lesson-17.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ### Lesson 18
 <AudioPlayerSeek src="/audio/Lesson-18.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ### Lesson 19
 <AudioPlayerSeek src="/audio/Lesson-19.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ### Lesson 20
 <AudioPlayerSeek src="/audio/Lesson-20.mp3" />
 
-:::note
+```note
 –no translation yet–
-:::
+```
 
 ## Comments
 
 **Bookwarm** on October 12, 2014 at 12:29 am
 
-> Sirs,
->
-> Thanks for this great, I really enjoy learning it.
->
-> In the other hand, could you pleased attach Mongolian alphabet and syntax of each for more clear understanding, please.
-> In fact, I understand the sound and the whole word you posted the meaning in English but I could not separate the shape of the alphabet and the word-order in Mongolian one by one. (Of the whole lessons)
->
-> Accordingly, this will help us the learn to speak, to read and to write with no doubts.
->
-> I keep my eyes to this web to learn by heart, also, hope you continue to update the lessons for us to be fluent of this beautiful language!
->
-> Best Regards,
-> Bookwarm
+Sirs,
 
----
+Thanks for this great, I really enjoy learning it.
+
+In the other hand, could you pleased attach Mongolian alphabet and syntax of each for more clear understanding, please.
+In fact, I understand the sound and the whole word you posted the meaning in English but I could not separate the shape of the alphabet and the word-order in Mongolian one by one. (Of the whole lessons)
+
+Accordingly, this will help us the learn to speak, to read and to write with no doubts.
+
+I keep my eyes to this web to learn by heart, also, hope you continue to update the lessons for us to be fluent of this beautiful language!
+
+Best Regards,
+Bookwarm
 
 > **Suragch** on October 12, 2014 at 10:28 pm
 >
-> > Since these are supplemental lessons I haven’t added many supporting materials. Interestingly enough, though, I recently met the authors of this textbook and they graciously gave permission to put the whole textbook online along with recordings. So eventually I hope to do that.
-
----
-
-> > **Bookwarm** on November 7, 2014 at 2:38 pm
-> >
-> > > Great! That would really help us to speak, read and write all along. Though, Will you continue to post more lessons to practice?
-> >
-> > > Very nice website. It’s very useful. Thank you again.
-
----
-
-> > > **Suragch** on November 9, 2014 at 11:28 am
-> > >
-> > > > I do hope to post more lessons in the future, though currently my time is being taken up with developing the Chimee Mongolian writing app.
-
----
-
-**Bayasaa** on April 21, 2015 at 1:10 am
-
-> I just came across your site today, but it seems to be very useful. I am studying Khalkha Mongolian, but several things here seem very useful even to me. Thanks a lot for putting it all up here!
+> Since these are supplemental lessons I haven’t added many supporting materials. Interestingly enough, though, I recently met the authors of this textbook and they graciously gave permission to put the whole textbook online along with recordings. So eventually I hope to do that.
 
 ---
