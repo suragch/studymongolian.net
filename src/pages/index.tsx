@@ -43,47 +43,7 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Sidebar Widgets Section */}
-        <section className="widgets-section">
-          <div className="container">
-            <div className="row">
-              <div className="col col--4">
-                <div className="widget-wrapper">
-                  <h4 className="widget-title">Recent Posts</h4>
-                  <div className="widget-content">
-                    <p>Latest blog posts and articles will appear here.</p>
-                  </div>
-                </div>
-              </div>
-              <div className="col col--4">
-                <div className="widget-wrapper">
-                  <h4 className="widget-title">Quick Links</h4>
-                  <div className="widget-content">
-                    <ul className="quick-links">
-                      <li><a href="/apps" target="_blank">Chimee App (English)</a></li>
-                      <li><a href="/apps" target="_blank">Chimee App (Chinese)</a></li>
-                      <li><a href="/apps" target="_blank">Chimee Help (English)</a></li>
-                      <li><a href="/apps" target="_blank">Chimee Help (Chinese)</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div className="col col--4">
-                <div className="widget-wrapper">
-                  <h4 className="widget-title">Resources</h4>
-                  <div className="widget-content">
-                    <ul className="resource-links">
-                      <li><Link to="/dictionary">Dictionary</Link></li>
-                      <li><Link to="/resources/grammar">Grammar Reference</Link></li>
-                      <li><Link to="/resources/books">Books</Link></li>
-                      <li><Link to="/resources/anki-flashcards">Flashcards</Link></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+        
       </main>
     </Layout>
   );
