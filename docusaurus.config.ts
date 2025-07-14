@@ -2,7 +2,7 @@ import {Config} from '@docusaurus/types';
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const config: Config = {
-  title: 'Study Mongolian',
+  title: 'Inner Mongolian Dialect',
   tagline: 'Learn to read and speak the beautiful language of Inner Mongolia',
   favicon: 'img/favicon.ico',
 
@@ -35,17 +35,12 @@ const config: Config = {
 
   themeConfig: {
     navbar: {
-      title: 'Study Mongolian',
+      title: '',
       logo: {
         alt: 'Study Mongolian Logo',
         src: 'img/heading-logo.svg',
       },
       items: [
-        {
-          to: '/',
-          label: 'Home',
-          position: 'left',
-        },
         {
           to: '/background',
           label: 'Background',
@@ -89,11 +84,6 @@ const config: Config = {
           ],
         },
         {
-          to: '/dictionary',
-          label: 'Dictionary',
-          position: 'left',
-        },
-        {
           to: '/resources',
           label: 'Resources',
           position: 'left',
@@ -127,11 +117,6 @@ const config: Config = {
               label: 'Tutoring',
             },
           ],
-        },
-        {
-          to: '/category/news',
-          label: 'News',
-          position: 'left',
         },
         {
           to: '/about',

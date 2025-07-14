@@ -34,6 +34,10 @@
   --ifm-color-primary-lighter: #80b3f7;
   --ifm-color-primary-lightest: #99c2fa;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  /* Study Mongolian specific colors for dark mode */
+  --sm-text-color: #f0f0f0;
+  --sm-background: var(--ifm-background-color);
 }
 
 /* Custom navbar styling to match original */
@@ -42,15 +46,8 @@
   border-bottom: none;
 }
 
-.navbar__brand {
-  color: white;
-}
-
-.navbar__title {
-  color: white;
-  font-weight: 600;
-}
-
+.navbar__brand,
+.navbar__title,
 .navbar__item.navbar__link {
   color: white;
   font-weight: 600;
@@ -60,10 +57,20 @@
   color: #e0e0e0;
 }
 
+/* Fix for dropdown menu text color in dark mode */
+[data-theme='dark'] .dropdown__link {
+  color: #f0f0f0;
+}
+
+[data-theme='dark'] .dropdown__link:hover {
+  background-color: var(--ifm-color-primary-dark);
+  color: white;
+}
+
 /* Hero Section Styling */
 .hero-section {
   padding: 4rem 0;
-  background-color: white;
+  background-color: var(--sm-background);
 }
 
 .hero-title {
@@ -99,50 +106,6 @@
   max-width: 200px;
   height: auto;
   border-radius: 8px;
-}
-
-/* Widgets Section */
-.widgets-section {
-  padding: 3rem 0;
-  background-color: #f8f9fa;
-}
-
-.widget-wrapper {
-  background-color: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  margin-bottom: 1.5rem;
-  height: 100%;
-}
-
-.widget-title {
-  color: var(--sm-text-color);
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin-bottom: 1rem;
-  border-bottom: 2px solid var(--ifm-color-primary);
-  padding-bottom: 0.5rem;
-}
-
-.widget-content ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.widget-content li {
-  margin-bottom: 0.5rem;
-}
-
-.widget-content a {
-  color: var(--ifm-color-primary);
-  text-decoration: none;
-}
-
-.widget-content a:hover {
-  color: var(--ifm-color-primary-dark);
-  text-decoration: underline;
 }
 
 /* Button styling */
