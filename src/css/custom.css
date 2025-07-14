@@ -108,6 +108,14 @@
   border-radius: 8px;
 }
 
+/* General image styling for content pages */
+main img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  margin: 1rem 0;
+}
+
 /* Button styling */
 .button--primary {
   background-color: var(--ifm-color-primary);
