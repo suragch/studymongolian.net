@@ -109,12 +109,8 @@ const config: Config = {
               label: 'Grammar Reference Manual',
             },
             {
-              to: '/links',
+              to: '/resources/links',
               label: 'Links',
-            },
-            {
-              to: '/tutoring',
-              label: 'Tutoring',
             },
           ],
         },
