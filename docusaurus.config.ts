@@ -101,10 +101,6 @@ const config: Config = {
               label: 'Books',
             },
             {
-              to: '/resources/downloads',
-              label: 'Downloads',
-            },
-            {
               to: '/resources/grammar',
               label: 'Grammar Reference Manual',
             },
