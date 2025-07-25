@@ -1,0 +1,218 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+### This table under LGPL
+### comments start with ### not single #
+### Derive from the format of SCIM Table, so you can modify the table from
+### scim-tables' table
+SCIM_Generic_Table_Phrase_Library_TEXT
+VERSION_1_1
+
+### Begin Table definition.
+BEGIN_DEFINITION
+
+### License
+LICENSE = LGPL
+
+### An unique id to distinguish this table among others.
+### Use uuidgen to generate this kind of id.
+UUID = 6bbc67b4-95b1-405c-9c19-844e02662786
+
+### A unique number indicates the version of this file.
+### For example the last modified date of this file.
+### This number must be less than 2^32.
+### Just make your table version-able
+SERIAL_NUMBER = 20130923
+
+### ICON can be any format as long as your pygtk can recognized
+### the most widely ones are "png" and "svg", letter one is recommended
+ICON = englishipa.svg
+
+### The default name of this table, this is needed
+NAME = English_IPA
+
+### The local names of this table, this is optional
+### NAME.zh_CN = 形码
+### NAME.zh_HK = 形碼
+### NAME.zh_TW = 形碼
+
+### Description
+DESCRIPTION = English IPA input engine table for IBus Table.
+
+### Supported languages of this table
+### sigle "zh_CN" just be recognized as zh_CN,
+### but "zh_CN, zh_HK" or more zh_XX will be recognized as zh;
+### and "en_US, zh_CN" will be just ignored.
+LANGUAGES = en_US
+
+### The author of this table
+AUTHOR = me
+
+### Prompt string to be displayed in the status area, CN will be replaced by
+### the gettext tools in runtime as 中.
+STATUS_PROMPT = Mipa
+
+### Valid input chars.
+VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`1234567890-~!@#$%^&*()_+[]{},./<>?
+
+### Layout
+LAYOUT = us
+
+### The max number of input keys for every phrase or character.
+MAX_KEY_LENGTH = 2
+
+### Use auto_commit mode as default
+AUTO_COMMIT = TRUE
+
+### Use full width punctuation by default
+DEF_FULL_WIDTH_PUNCT = FALSE
+### Not use full width letter by default
+DEF_FULL_WIDTH_LETTER = FALSE
+
+### Whether user are allow to define phrase, default is true
+### You have to define the word construction rules below.
+### For input methods which do not input phrases, set this to False
+USER_CAN_DEFINE_PHRASE = FALSE
+
+### Whether support PinYin Mode, default is true.
+### this feature is just for Chinese, set it to False if your IM is not
+### Chinese.
+PINYIN_MODE = FALSE
+
+### If true then the phrases' frequencies will be adjusted dynamically
+### according your using frequency.
+DYNAMIC_ADJUST = FALSE 
+
+### Some characters whose frequencies should be fix all the time, e.g. 
+### some punctuations
+### NO_CHECK_CHARS = 
+
+### Rules for constructing user defined phrase
+### "ce" stands for "ci equal", a Chinese English :), means "phrase length
+### equal to", thus ce2 -> phrase length equal to 2; and "ca" means "phrase
+### length equal or above", so ca4 -> phrase length equal or above 4.
+### p21 -> the 1st key of 2nd character in the phrase, and so on.
+### Each rule separate via ";". 
+### Example below is a complete rule-set, 
+### becuase [2,2] ∩ [3,3] ∩ [4,+∞] = [2,+∞], which is the range of length
+### of phrase. This have to be satisfied if you need ibus-table to build up
+### your own inputed phrase via your daily using.
+### RULES = ce2:p11+p12+p21+p22;ce3:p11+p21+p22+p31;ca4:p11+p21+p31+p41
+
+END_DEFINITION
+
+### Begin Table data.
+### Format of every line whose formated in "input_keys\tphrase\tfreq\n" is an
+### entry.
+### From left to right, the 1st column are the input key combination that you
+### entered via keyboard; the 2nd column are presented character or phrase of
+### the key combination you want; the 3rd column are frequency of the character
+### or phrase.
+BEGIN_TABLE
+`	"	1
+1	!	1
+2	ɒ	1
+3	ɜ	1
+4	ɹ	1
+5	aɪ	1
+6	aʊ	1
+7	əʊ	1
+8	eɪ	1
+9	ɔɪ	1
+0	oʊ	1
+-	-	1
+###=	=	1
+~	~	1
+!	1	1
+@	2	1
+#	3	1
+$	4	1
+%	5	1
+^	6	1
+&	7	1
+*	8	1
+(	9	1
+)	0	1
+_	_	1
++	=	1
++	+	2
+q	ɝ	1
+w	w	1
+e	e	1
+r	r	1
+t	t	1
+y	aɪ	1
+u	u	1
+i	i	1
+o	o	1
+p	p	1
+[	[	1
+]	]	1
+Q	ɚ	1
+W	aʊ	1
+E	ɛ	1
+R	ɾ	1
+T	θ	1
+Y	ɔɪ	1
+U	ʊ	1
+I	ɪ	1
+O	ɔ	1
+P	‖	1
+{	(	1
+}	)	1
+a	ɑ	1
+s	s	1
+d	d	1
+f	f	1
+g	g	1
+h	h	1
+j	j	1
+k	k	1
+l	l	1
+;	ː	1
+'	ˈ	1
+A	æ	1
+S	ʃ	1
+D	ð	1
+F	ə	1
+G	ʔ	1
+H	1
+###J		1
+###K	1
+L	ɫ	1
+:	;	1
+"	ˌ	1
+z	z	1
+x	x	1
+c	ʧ	1
+v	v	1
+b	b	1
+n	n	1
+m	m	1
+,	,	1
+.	.	1
+/	/	1
+Z	ʒ	1
+###X	1
+C	ʤ	1
+V	ʌ	1
+###B	1
+N	ŋ	1
+###M	1
+###<	1
+>	→	1
+?	?	1
+END_TABlE
+
+### Since some input methods use different table for every character to make
+### phrase, such as ZhengMa, they need explict define the goucima (the
+### phrase-building code for the given character), the format of every entry is
+### "character\tgoucima\n". 
+### For the input method which just use the full code as word-building code
+### just skip this field. The ibus-table will build the codes needed from
+### above TABLE.
+### if you don't need different word-building code, please comment out the
+### next few lines with ###, just like these lines you are look at now.
+### BEGIN_GOUCI
+### character_1	goucima_1
+### character_1	goucima_2
+### END_GOUCI
