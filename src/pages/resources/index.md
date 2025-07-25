@@ -8,5 +8,5 @@ description: Mongolian language learning resources
 - [Apps](/resources/apps/)
 - [Anki flashcards](/resources/anki-flashcards/)
 - [Books](/resources/books/)
-- [Grammar reference manual](/resources/grammar/)
+- [Grammar](/resources/grammar/)
 - [Links](/resources/links/)

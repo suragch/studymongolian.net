@@ -102,7 +102,7 @@ const config: Config = {
             },
             {
               to: '/resources/grammar',
-              label: 'Grammar Reference Manual',
+              label: 'Grammar',
             },
             {
               to: '/resources/links',
