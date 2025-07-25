@@ -26,7 +26,7 @@ This is made by a company in Mongolia, but it supports traditional script.
 
 This app allows you to listen to a wide variety of Mongolian music.
 
-## [Ariun Nom](http://mgl.olool.com/)
+## [Ariun Nom](http://ariunnom.com/)
 
 Read familiar Bible stories.
 
