@@ -15,7 +15,7 @@ Download the Anki deck package using the link below. After you install Anki on y
 
 #### Available Anki Flashcard Decks for Mongolian
 
-*   [Traditional Mongolian Alphabet – Reading](http://www.studymongolian.net/wp-content/uploads/Traditional-Mongol-Alphabet-Reading.apkg)
-*   [Traditional Mongolian Alphabet – Listening](http://www.studymongolian.net/wp-content/uploads/Traditional-Mongol-Alphabet-Listening.apkg)
-*   [Survival Phrases](http://www.studymongolian.net/wp-content/uploads/Mongolian-Survival-Phrases.apkg)
-*   [Vocabulary for Lessons 1-5](http://www.studymongolian.net/wp-content/uploads/Mongolian-Main-Vocab-L5.apkg)
+- <a href="/static/media/Traditional-Mongol-Alphabet-Reading.apkg" download>Traditional Mongolian Alphabet – Reading</a>
+- <a href="/static/media/Traditional-Mongol-Alphabet-Listening.apkg" download>Traditional Mongolian Alphabet – Listening</a>
+- <a href="/static/media/Mongolian-Survival-Phrases.apkg" download>Survival Phrases</a>
+- <a href="/static/media/Mongolian-Main-Vocab-L5.apkg" download>Vocabulary for Lessons 1-5</a>
