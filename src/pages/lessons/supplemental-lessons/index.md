@@ -4,7 +4,7 @@ Professor Hitoshi Kuribayashi of Tohoku University in Japan and Professor U. Hur
 
 - <a href="/static/media/Elementary_Mongolian_book_1.pdf" download>Download textbook (.pdf)</a>
 
-- <a href="/static/media/EM_book_1_audio.zip" download>Download textbook audio (.zip)</a>
+- <a href="https://github.com/suragch/studymongolian.net/raw/refs/heads/master/static/media/EM_book_1_audio.zip" download>Download textbook audio (.zip)</a>
 
 It has been helpful for me to do listening dictation on these audio recordings. You might find a similar exercise helpful as well. You can download the audio or listen to it online. If you find any mistakes in the translation let me know.
 
