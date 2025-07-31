@@ -2,9 +2,9 @@
 
 Professor Hitoshi Kuribayashi of Tohoku University in Japan and Professor U. Hurelbator of Inner Mongolia University in China have graciously given permission to provide their textbook, *Elementary Mongolian* (モンゴル語入門，フレルバ-トル 栗林均 編，東京外国語大学，アヅアアフリカ 言語文化研究所，1997), on this website. Even though I don’t speak Japanese, I still think this is one of the best Mongolian textbooks I have seen. I’m currently going through the dialogs in the back of the book with my tutor. I’ll try to provide an approximate English translation when I finish a lesson. The textbook and audio are provided for educational purposes only. All copyrights belong to the authors. If you want to use them for any other purposes, you should contact Professors Kuribayashi and Hurelbator directly.
 
-- <a href="/static/media/Elementary_Mongolian_book_1.pdf" download>Download textbook (.pdf)</a>
+- <a href="https://github.com/suragch/studymongolian.net/raw/refs/heads/master/largefiles/Elementary_Mongolian_book_1.pdf" download>Download textbook (.pdf)</a>
 
-- <a href="https://github.com/suragch/studymongolian.net/raw/refs/heads/master/static/media/EM_book_1_audio.zip" download>Download textbook audio (.zip)</a>
+- <a href="https://github.com/suragch/studymongolian.net/raw/refs/heads/master/largefiles/EM_book_1_audio.zip" download>Download textbook audio (.zip)</a>
 
 It has been helpful for me to do listening dictation on these audio recordings. You might find a similar exercise helpful as well. You can download the audio or listen to it online. If you find any mistakes in the translation let me know.
 
