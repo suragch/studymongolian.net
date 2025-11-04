@@ -551,9 +551,9 @@ Click the “Input Method” tab and check the “Customize active input methods
 
 That’s it. Congratulations! You can turn the input method on and off going back to the IBus keyboard icon or pressing Ctrl-Spacebar.
 
-You can also see my <a href="/static/media/Mongol_Unicode.txt" download>file</a> and <a href="/static/media/mongolian.svg" download>icon</a> for traditional Mongolian. (See [this post](http://www.studymongolian.net/technical/how-to-create-linux-input-method-editor/mongolian-unicode-input-editor-for-linux/) for more directions.) The actual traditional Mongolian characters may or may not show up if you don’t have the right font installed. I use the [Mongolian Writing font](http://www.mongolfont.com/en/font/mnglwritingotf.html) from Almas Inc. I use Lucida Sans Unicode for the IPA input methods, but that comes installed with Ubuntu anyway, I think.
+You can also see my <a href="/media/Mongol_Unicode.txt" download>file</a> and <a href="/media/mongolian.svg" download>icon</a> for traditional Mongolian. (See [this post](http://www.studymongolian.net/technical/how-to-create-linux-input-method-editor/mongolian-unicode-input-editor-for-linux/) for more directions.) The actual traditional Mongolian characters may or may not show up if you don’t have the right font installed. I use the [Mongolian Writing font](http://www.mongolfont.com/en/font/mnglwritingotf.html) from Almas Inc. I use Lucida Sans Unicode for the IPA input methods, but that comes installed with Ubuntu anyway, I think.
 
-Here is the <a href="/static/media/English_IPA.txt" download>file</a> and <a href="/static/media/englishipa.svg" download>icon</a> for the English IPA input method if you are interested. If you don’t like the keys I chose then just switch them around within the configuration file.
+Here is the <a href="/media/English_IPA.txt" download>file</a> and <a href="/media/englishipa.svg" download>icon</a> for the English IPA input method if you are interested. If you don’t like the keys I chose then just switch them around within the configuration file.
 
 ## Troubleshooting
 

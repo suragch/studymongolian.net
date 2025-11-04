@@ -21,7 +21,7 @@ title: Chimee
 
 ## 下载
 
-- <a href="/static/media/Chimee-3.3.1.apk" download>下载安卓版</a>
+- <a href="/media/Chimee-3.3.1.apk" download>下载安卓版</a>
 
 ## 帮助
 

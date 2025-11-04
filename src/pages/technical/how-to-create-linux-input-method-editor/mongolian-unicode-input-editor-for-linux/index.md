@@ -8,7 +8,7 @@ title: Mongolian Unicode Input Editor for Linux
 
 When I want to write Mongolian on the computer it is annoying to have to [write it on my phone](/apps/chimee/) and then transfer it to the computer. So I wrote up a simple input editor for the Mongolian Unicode characters. Below are my notes for how to install it.
 
-Download the IBus file: <a href="/static/media/Mongol_Unicode.txt" download>Mongol_Unicode.txt</a>
+Download the IBus file: <a href="/media/Mongol_Unicode.txt" download>Mongol_Unicode.txt</a>
 
 Run the following three commands in a terminal (changing the path to wherever you have it):
 
@@ -34,7 +34,7 @@ There are still some rendering problems but this is improving over time. I can g
 
 ## Note
 
-I couldn’t get the icon to work for me but if you want to try it here is the icon file: <a href="/static/media/mongolian.svg" download>mongolian.svg</a> 
+I couldn’t get the icon to work for me but if you want to try it here is the icon file: <a href="/media/mongolian.svg" download>mongolian.svg</a> 
 
 It is supposed to work after copying it with
 
